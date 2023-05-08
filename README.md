@@ -1,7 +1,1 @@
-# PolynomialAddition
-# PolynomialAddition
-# PolynomialAddition
-# PolynomialAddition
-# PolynomialAddition
-# PolynomialAddition
-# kbcproject
+here is the python code of kbc quiz 
